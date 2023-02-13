@@ -1,0 +1,30 @@
+01. C++ if-else (Decision Making)
+02. Leap Year
+03. Switch Statement
+04. Even Odd Game
+05. Greatest of three numbers
+06. Calculator
+07. Digital Root
+08. Fibonacci Using Recursion
+09. Find Volume
+10. Sum - Default Arguments
+11. First Digit of a Number
+12. Prime Factorization
+13. Factorial
+14. For Loop - 1
+15. For Loop - 2
+16. For Loop- primeCheck
+17. While loop- printTable
+18. Table Difference
+19. Count Digits
+20. Print Square
+21. Print Square wall
+22. Print Square Wall 2
+23. Right Angle Triangle
+24. Right Angle Triangle 2
+25. Inverted Right AngleTriangle
+26. Divisor
+27. Check Prime
+28. Next Prime Number
+29. GCD
+30. LCM

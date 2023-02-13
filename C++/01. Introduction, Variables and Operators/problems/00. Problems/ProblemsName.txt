@@ -1,0 +1,25 @@
+01. Start Coding
+02. The New Line
+03. Learn to Comment
+04. Data Types
+05. Learning to be precise
+06. Learning Macros
+07. Swap The Numbers
+08. Type Conversion
+09. Return Size
+10. Compute a_b
+11. Kth call
+12. Global variable
+13. Add - Auto Keyword
+14. Type Inference
+15. Input Integer
+16. Print With Space
+17. Print GeeksForGeeks with quotes
+18. Print Boolean value
+19. Convert to Hexadecimal
+20. Scientific Format
+21. Arithmetic Operators
+22. Sum of N Numbers
+23. Bitwise Right Shift
+24. Last Digit of a number
+25. AP Term
