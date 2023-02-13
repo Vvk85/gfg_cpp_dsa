@@ -1,0 +1,35 @@
+01. Array Traversal Reverse
+02. Sum All Array Elements
+03. Count Odd Even
+04. Need Some Change
+05. Array insert at index
+06. Decrement Array Values
+07. Max and Second Max
+08. Delete Array
+09. Check if array is sorted
+10. Find distinct elements
+11. Count the Zeros
+12. Average
+13. Size of an Array
+14. Search an Element in an array
+15. Magic in CPP
+16. Two Dimensional World
+17. Incrementing a variable
+18. Address Operator
+19. C++ Call by reference
+20. Predict the Column
+21. Matrix Interchange
+22. Transpose of Matrix
+23. Multiply the matrices
+24. Length of String
+25. Implement strstr
+26. Sum of numbers in string
+27. Reverse a String
+28. CPP Substring
+29. GetLine 1
+30. GetLine 2
+31. Run Length Encoding
+32. Reverse words in a given string
+33. Match specific pattern
+34. Print Alphabets
+35. Count Words in String
