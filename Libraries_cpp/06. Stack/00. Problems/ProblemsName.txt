@@ -1,0 +1,14 @@
+01. Stack designer
+02. Operations on Stack
+03. Delete middle element of a stack
+04. Reverse Array Using Stack
+05. Removing consecutive duplicates
+06. Removing Consecutive Elements
+07. Get min at pop
+08. Parenthesis Checker
+09. Shopkeeper Profit
+10. Stock span problem
+11. Next Greater Element
+12. Get minimum element from stack
+13. Immediate Smaller Element
+14. Maximum of minimum for every window size
