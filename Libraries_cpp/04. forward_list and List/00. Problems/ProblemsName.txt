@@ -1,0 +1,7 @@
+01. Forward List Insert
+02. Forward list deletion in C++
+03. Forward List Erase After
+04. C++ STL List
+05. Josephus problem
+06. Josephus Circle using List
+07. Design a Data Structure with insert/replace/print Operation
