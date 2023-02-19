@@ -1,0 +1,11 @@
+01. Bubble Sort
+02. Selection Sort
+03. Insertion Sort
+04. Shell Sort
+05. Quick Sort
+06. Merge Sort
+07. Counting Sort
+08. Radix Sort
+09. Binary Array Sorting
+10. Count the number of possible triangles
+11. Minimum Difference in an Array

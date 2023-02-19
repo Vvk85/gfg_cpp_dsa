@@ -1,0 +1,5 @@
+01. Search an Element in an array
+02. Searching an element in a sorted array
+03. Count 1's in binary array
+04. Square root of a number
+05. Majority Element
