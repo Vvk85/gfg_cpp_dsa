@@ -1,0 +1,13 @@
+01. Display Doubly Linked List
+02. Doubly Linked List Head Insert
+03. Doubly Linked List Tail Insert
+04. Doubly linked list Insertion at given position
+05. Insert in Sorted way in a Sorted DLL
+06. Delete Tail of Doubly Linked List
+07. Delete Head of Doubly Linked List
+08. Delete node in Doubly Linked List
+09. Reverse a Doubly Linked List
+10. Display Circular Doubly Linked List
+11. Is The Doubly Linked List Circular
+12. Compare Circular Doubly Linked Lists
+13. Find Middle of Circular Doubly Linked List

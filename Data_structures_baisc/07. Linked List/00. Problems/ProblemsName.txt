@@ -1,0 +1,18 @@
+01. Display Linked List
+02. Sum The Nodes of Linked List
+03. Count nodes of linked list
+04. Maximum And Minimum In Linked List
+05. Search In Linked List
+06. Linked List Insertion
+07. Insert in Middle of Linked List
+08. Linked List Insertion At Position
+09. Insert In Sorted Linked List
+10. Delete Tail of Linked List
+11. Delete Head of Linked List
+12. Linked List Delete at Position
+13. Is Linked List Sorted
+14. Join Two Linked Lists
+15. Remove duplicate element from sorted Linked List
+16. Identical Linked Lists
+17. Nth node from end of linked list
+18. Reverse a linked list
