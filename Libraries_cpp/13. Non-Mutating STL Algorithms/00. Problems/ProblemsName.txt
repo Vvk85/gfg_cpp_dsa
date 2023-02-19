@@ -1,0 +1,12 @@
+01. Find element in vector using find
+02. Vector max_element
+03. Vector min_element
+04. Vector Accumulate
+05. upper and lower bounds of an element
+06. Rotate vector by K places
+07. Vector fill
+08. Check if Arrays are Permutations
+09. Find element in Set using find
+10. Find element in Set using Count
+11. Search in Vector
+12. Median in a row-wise sorted Matrix
