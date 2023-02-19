@@ -1,0 +1,14 @@
+01. Vector insertion
+02. Front to Back
+03. Back to Front
+04. Vector Sum
+05. Sort and Reverse Vector
+06. Vector Erase and Clear
+07. Find the Frequency
+08. Elements Less Than K
+09. Maximum Among Left
+10. Vector Shrink To Fit
+11. Sort Vector of Pairs
+12. Increasing Roll And Marks
+13. Minimum Vertical Sum
+14. Prime At Prime Index
