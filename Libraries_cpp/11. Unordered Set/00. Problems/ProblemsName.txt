@@ -1,0 +1,11 @@
+01. Unordered Set Hash Function
+02. Unordered Set Size Function
+03. Unordered Set Swap Function
+04. Unordered Set Find Duplicate
+05. Union of Two Sorted Arrays
+06. Intersection of two arrays
+07. Hashing for pair - 1
+08. Hashing for pair - 2
+09. Longest consecutive subsequence
+10. Subarray with 0 sum
+11. Unique Substrings
