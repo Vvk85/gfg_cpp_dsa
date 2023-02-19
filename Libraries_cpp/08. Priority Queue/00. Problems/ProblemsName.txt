@@ -1,0 +1,8 @@
+01. Min Heap implementation
+02. Maximize Number of Toys
+03. K largest elements
+04. Kth largest element
+05. Kth smallest element
+06. Minimum Cost of ropes
+07. K Most occurring elements
+08. Merge k Sorted Arrays
