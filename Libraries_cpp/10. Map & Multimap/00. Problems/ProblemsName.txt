@@ -1,0 +1,6 @@
+01. Map Operations
+02. Sorted Frequency
+03. Common Elements
+04. Count Smaller elements
+05. Parties and seats
+06. Multimap Operations
