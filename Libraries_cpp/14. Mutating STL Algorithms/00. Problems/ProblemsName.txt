@@ -1,0 +1,10 @@
+01. Sort and reverse
+02. The Thief Problem
+03. Fractional Knapsack
+04. Chocolate Distribution Problem
+05. Sorting Elements of an Array by Frequency
+06. Remove from vector
+07. Permutations of string
+08. Heapify the vector
+09. Merge Sorted Arrays Using Minheap
+10. Lexicographical Rank Of String
