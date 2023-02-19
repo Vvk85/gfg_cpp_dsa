@@ -1,0 +1,6 @@
+01. Deque Implementations
+02. Implement Dequeue Using Linked List
+03. Insertion in deque
+04. Dequeue Traversal
+05. Deque deletion
+06. Rotate Deque By K
