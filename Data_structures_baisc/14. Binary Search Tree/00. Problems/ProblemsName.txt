@@ -1,0 +1,7 @@
+01. Insert a node in a BST
+02. Search a node in BST
+03. Preorder in BST
+04. Inorder in BST
+05. Postorder in BST
+06. Levelorder in BST
+07. Delete a node from BST
