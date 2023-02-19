@@ -1,0 +1,8 @@
+01. Pattern searching
+02. Find one extra character
+03. Implement strstr
+04. Pangram check
+05. Anagram
+06. Set bits in N
+07. Lexicographically Smallest String
+08. Maximum Sum Subarray
